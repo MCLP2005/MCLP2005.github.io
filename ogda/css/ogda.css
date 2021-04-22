@@ -1,0 +1,42 @@
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+li {
+  font-size: 22px;
+}
+
+a:link {
+  color: #8a0c03;
+}
+
+a:visited {
+  color: #0f6304;
+}
+
+td {
+  width: 250px;
+  height: 26px;
+  scroll-behavior: auto;
+  min-width: 100px;
+  font-size: 20px;
+  border-bottom-style: dotted;
+  border-bottom-width: 2px;
+}
+
+table {
+  border-style: hidden;
+  scroll-behavior: smooth;
+}
+
+.Tabelle {
+  scroll-behavior: auto;
+}
