@@ -1,7 +1,6 @@
 ---
----
-
----
 label: blank
 hide_body: false
 fields: []
+pages:
+- dl/index.html
