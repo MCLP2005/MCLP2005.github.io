@@ -1,10 +1,6 @@
 ---
----
-
----
 label: blank
 hide_body: false
 fields: []
 pages:
 - ogda/ogda-1.md
-- ogda/ogda.md
