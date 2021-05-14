@@ -1,6 +1,6 @@
 ---
----
 
+---
 # Minecraft - Project Ogda: SURVIVAL
 
 ## As you may have recognised, there's a new project going on in Minecraft - "Project Ogda: SURVIVAL"
@@ -15,7 +15,7 @@
 
 | Name | YouTube | Twitch |
 
-| :------------------------: | :------------------------: | :------------------------: |
+| :---: | :---: | :---: |
 
 | MasterChiefDrNo | [MasterChiefDrNo](https://www.youtube.com/channel/UChzkCAcV3cL9qlk5a2setAg) | [MasterChiefDrNo_](https://twitch.tv/masterchiefdrno_) |
 
