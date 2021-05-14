@@ -1,6 +1,6 @@
 ---
----
 
+---
 # Minecraft - Project Ogda: SURVIVAL
 
 ## As you may have recognised, there's a new project going on in Minecraft - "Project Ogda: SURVIVAL"
@@ -13,12 +13,14 @@
 
 ### The members are:
 
-Name | YouTube | Twitch
+| Name | YouTube | Twitch |
 
-MasterChiefDrNo | [MasterChiefDrNo](https://www.youtube.com/channel/UChzkCAcV3cL9qlk5a2setAg) | [MasterChiefDrNo_](https://twitch.tv/masterchiefdrno_)
+| MasterChiefDrNo | [MasterChiefDrNo](https://www.youtube.com/channel/UChzkCAcV3cL9qlk5a2setAg) | [MasterChiefDrNo_](https://twitch.tv/masterchiefdrno_) |
 
-Ollol06 | [Ollol06](https://www.youtube.com/channel/UC3U_uIXlQGxuGc8sZuAe6vg) | [Olli_exe01](https://twitch.tv/olli_exe01)
+| Ollol06 | [Ollol06](https://www.youtube.com/channel/UC3U_uIXlQGxuGc8sZuAe6vg) | [Olli_exe01](https://twitch.tv/olli_exe01) |
 
-Juliusxxl1 | [Juco Games](https://www.youtube.com/channel/UCchsuPw9kXWKmSLnCkNSKMg) |
+| Juliusxxl1 | [Juco Games](https://www.youtube.com/channel/UCchsuPw9kXWKmSLnCkNSKMg) | |
 
-erlybird99 | [erly bird](https://www.youtube.com/channel/UCDbJx60nWclTI5byS7VYggg) | You can add the discord bot with [this link](https://discord.com/api/oauth2/authorize?client_id=842152485158387712&permissions=76800&redirect_uri=https%3A%2F%2Fmclp2005.github.io%2Fogda%2Findex.html&scope=bot)
+| erlybird99 | [erly bird](https://www.youtube.com/channel/UCDbJx60nWclTI5byS7VYggg) | |
+
+You can add the discord bot with [this link](https://discord.com/api/oauth2/authorize?client_id=842152485158387712&permissions=76800&redirect_uri=https%3A%2F%2Fmclp2005.github.io%2Fogda%2Findex.html&scope=bot)
