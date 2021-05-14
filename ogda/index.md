@@ -1,6 +1,6 @@
 ---
-
 ---
+
 # Minecraft - Project Ogda: SURVIVAL
 
 ## As you may have recognised, there's a new project going on in Minecraft - "Project Ogda: SURVIVAL"
